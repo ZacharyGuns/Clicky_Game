@@ -4,7 +4,7 @@ import "./Champions.css";
 const Champions = props => (
   <div onClick={() => props.scoreCount(props.name)} className="card">
     <div className="img-container">
-      <img alt={props.name} src={`${props.name}`} />
+      <img alt={props.name} src={props.image} />
     </div>
     <div className="content">
           <strong>{props.name}</strong> 
