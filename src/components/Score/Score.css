@@ -1,0 +1,15 @@
+.score, .message{
+    color: black;
+    display: block;
+    text-align: center;
+    font-size: 26px;
+  }
+  .message{
+    font-weight:bold;
+  }
+  span{
+    margin:0px 10px 0px 25px;
+  }
+  .container{
+    max-width: 100%!important;
+  }

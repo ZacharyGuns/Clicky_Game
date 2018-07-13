@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Ahri",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Katarina",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_0.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jinx",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_0.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Thresh",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_0.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Braum",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_0.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Nami",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_0.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Kled",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kled_0.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Pyke",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_0.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Jhin",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_0.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Swain",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_0.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Veigar",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_0.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Warwick",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_0.jpg"
+    }
+  ]
